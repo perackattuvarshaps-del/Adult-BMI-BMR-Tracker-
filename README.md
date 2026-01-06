@@ -28,7 +28,7 @@ For Women: BMR = (10weight)+(6.25height)-(5*age)-161
 
 -----------------------------------
 
-Small descrption in the sidebar
+Small descrption in the sidebar of the app.
 
 
 
